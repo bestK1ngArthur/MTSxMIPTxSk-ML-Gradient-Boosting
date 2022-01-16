@@ -1,6 +1,8 @@
 # MTSxMIPTxSk-ML-Gradient-Boosting
 🤖 Gradient Boosting project in educational purposes
 
+[🔗 Kaggle Link](https://www.kaggle.com/c/home-credit-default-risk)
+
 ## How to launch HW3
 
 1. Go to repo folder.
